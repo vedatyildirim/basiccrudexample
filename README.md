@@ -1,7 +1,6 @@
 ---
-description: >-
-  Bu yazı dizisinde "Spring Framework" ekosistemindeki bileşenleri ve Spring
-  Boot ile kullanımlarını anlatmaya çalışacağım.
+http://spring.vedatyildirim.com/: >-
+  Bu linkteki yazı dizisinde "Spring Framework" ekosistemindeki bileşenleri ve Spring Boot ile kullanımlarını anlatmaya çalışacağım.
 ---
 
 # Spring Boot Eğitimi
@@ -18,12 +17,11 @@ description: >-
 ## Amaç
 
 Kurumsal yazılım geliştirme alanında JavaEE'nin yerini almış olan Spring Boot için hazırlanmış bir yazı dizisidir.
-
-Amacım, Türkçe kaynak oluşturmak ve hızlıca giriş yapmanıza yardımcı olmak için bir doküman hazırlamaktır. Buradaki kavramların detaylarını araştırmanız ve örnekler yaparak kendinizi geliştirmeniz gerekmektedir.
-
-İzinsiz kopyalamak ve başka platformlar üzerinde paylaşmak yasaktır.
+Amacım, Türkçe kaynak oluşturmak ve hızlıca giriş yapmanıza yardımcı olmak için bir doküman hazırlamaktır.
 
 Faydalı olması dileği ile...
 
 Vedat Yıldırım.
+Web: http://vedatyildirim.com
+Linkedin: https://www.linkedin.com/in/vedat-yildirim/
 
