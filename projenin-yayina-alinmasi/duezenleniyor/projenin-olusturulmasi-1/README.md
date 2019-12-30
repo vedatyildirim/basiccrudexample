@@ -1,2 +1,0 @@
-# Projenin Oluşturulması
-
